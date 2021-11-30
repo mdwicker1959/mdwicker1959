@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @mdwicker1959
-- 👀 I’m interested in learning to wrote in JavaScript and then Python.
-- 🌱 I’m currently learning web development. 
+- Hi, I’m @mdwicker1959
+- I’m interested in learning to wrote in JavaScript and then Python.
+- I’m currently learning web development. 
 - I just received my A+ certification and am planning to do something in the field of websites and something more after that. 
 - I'm retired and just now starting to learn about the world of IT.
 - mikeandkellywicker3@yahoo.com
